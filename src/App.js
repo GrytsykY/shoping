@@ -1,11 +1,32 @@
-import React from 'react'
+import React, { Component } from 'react'
+import { connect } from 'react-redux'
+import { setBooks } from './actions/books'
 
-function App() {
-  return (
-    <div className="container">
-      <h1>12334456</h1>
-    </div>
-  );
+class App extends Component {
+  render() {
+    const { books } = this.props.books;
+    const { setBooks } = this.props;
+    const newBooks = [
+      {
+        id: 0,
+        title: 'shop card '+new Date()
+      }
+    ];
+    return (
+      <div>
+        <h1>{books[0].title}</h1>
+        <button onClick={setBooks.bind(this, newBooks)}>Set books</button>
+      </div>
+    )
+  }
 }
 
-export default App;
+const mapStateToProps = state => ({
+  ...state
+})
+
+const mapDispatchToProps = dispatch => ({
+  setBooks: books => dispatch(setBooks(books))
+})
+
+export default connect(mapStateToProps, mapDispatchToProps)(App);
