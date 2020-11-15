@@ -1,5 +1,6 @@
 const initialState = {
-  books: [{id:0,title:'books'}]
+  isReady: false,
+  items: null  
 }
 
 export default (state = initialState, action) => {
@@ -8,15 +9,16 @@ export default (state = initialState, action) => {
     case 'SET_BOOKS':
       return {
         ...state,
-        books: action.payload
+        items: action.payload,
+        isReady: true
       }
-    case 'ADD_BOOKS':
-      return {
-        books: [
-          ...state.books,
-          action.payload
-        ]
+      break;
+    case 'SET_IS_READY':
+      return{
+        ...state,
+        isReady: action.payload
       }
+      break;
     default:
       return state
   }

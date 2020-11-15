@@ -1,0 +1,173 @@
+[
+  {
+    "id": 0,
+    "title": "Подлинное искупление",
+    "author": "Коул Тилли",
+    "genre": "роман",
+    "image": "https://www.litmir.me/data/Book/0/701000/701322/BC4_1605352447.jpg",
+    "price": 710,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "История одного приключения",
+    "author": "Эшли Ксения",
+    "genre": "роман",
+    "image": "https://www.litmir.me/data/Book/0/701000/701315/BC4_1605341357.jpg",
+    "price": 415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Ягоды бабьего лета",
+    "author": "Толмачева Людмила Степановна",
+    "genre": "роман",
+    "image": "https://www.litmir.me/data/Book/0/701000/701314/BC4_1605341143.jpg",
+    "price": 464,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Падший Король",
+    "author": "Кроуфорд К. Н.",
+    "genre": "роман",
+    "image": "https://www.litmir.me/data/Book/0/701000/701313/BC4_1605340998.jpg",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Падение Дома Теккен'ар ",
+    "author": "Астахов Евгений Евгеньевич",
+    "genre": "фэнтези",
+    "image": "https://www.litmir.me/data/Book/0/701000/701312/BC4_1605339958.jpg",
+    "price": 317,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Рейдер. Защитник",
+    "author": "Калбазов Константин",
+    "genre": "фэнтези",
+    "image": "https://www.litmir.me/data/Book/0/701000/701235/BC4_1605272168.jpg",
+    "price": 254,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "Неучтённый фактор.",
+    "author": "Усманов Хайдарали",
+    "genre": "боевик",
+    "image": "https://www.litmir.me/data/Book/0/701000/701234/BC4_1605270612.jpg",
+    "price": 573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "Бумажный театр",
+    "author": " Улицкая Людмила",
+    "genre": "проза",
+    "image": "https://www.litmir.me/data/Book/0/701000/701216/BC4_1605260768.jpg",
+    "price": 246,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "Человек в космосе",
+    "author": "Докинз Ричард",
+    "genre": "наука",
+    "image": "https://www.litmir.me/data/Book/0/701000/701215/BC4_1605259823.jpg",
+    "price": 347,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Дневник «русской мамы»",
+    "author": "Эстрем Мария",
+    "genre": "проза",
+    "image": "https://www.litmir.me/data/Book/0/701000/701206/BC4_1605214836.jpg",
+    "price": 882,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "Академия законников",
+    "author": "Решетова Евгения",
+    "genre": "роман",
+    "image": "https://www.litmir.me/data/Book/0/701000/701205/BC4_1605209445.jpg",
+    "price": 829,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "Золотая цепь",
+    "author": "Клэр Кассандра",
+    "genre": "фэнтези",
+    "image": "https://www.litmir.me/data/Book/0/701000/701191/BC4_1605206710.jpg",
+    "price": 389,
+    "rating": 2
+  },
+  {
+    "id": 12,
+    "title": "Самая страшная книга 2021",
+    "author": "Гелприн Майкл ",
+    "genre": "мистика",
+    "image": "https://www.litmir.me/data/Book/0/701000/701190/BC4_1605205870.jpg",
+    "price": 424,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "Лунный скандал",
+    "author": "Арментроут Дженнифер",
+    "genre": "роман",
+    "image": "https://www.litmir.me/data/Book/0/701000/701189/BC4_1605206770.jpg",
+    "price": 157,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Гарри Поттер и Кубок огня",
+    "author": "Роулинг Джоан Кэтлин",
+    "genre": "фэнтези",
+    "image": "https://www.litmir.me/data/Book/0/164000/164713/BC4_1595686990.jpg",
+    "price": 664,
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "title": "БЫВШИЕ",
+    "author": "Краснова Наталья Николаевна",
+    "genre": "боевик",
+    "image": "https://www.litmir.me/data/Book/0/621000/621829/BC4_1582439169.jpg",
+    "price": 476,
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "title": "Голливудский скандал",
+    "author": "Бей Луиза",
+    "genre": "боевик",
+    "image": "https://www.litmir.me/data/Book/0/701000/701324/BC4_1605353234.jpg",
+    "price": 837,
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "title": "Гарри Поттер и узник Азкабана",
+    "author": "Роулинг Джоан Кэтлин",
+    "genre": "фэнтези",
+    "image": "https://www.litmir.me/data/Book/0/37000/37514/BC4_1597200430.jpg",
+    "price": 796,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "title": "Белый Клык",
+    "author": "Лондон Джек",
+    "genre": "классика",
+    "image": "https://www.litmir.me/data/Book/0/165000/165655/BC4_1595673730.jpg",
+    "price": 399,
+    "rating": 5
+  }
+]
